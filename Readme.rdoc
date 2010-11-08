@@ -1,0 +1,17 @@
+= Regras para edição deste arquivo:
+
+Este é um projeto colaborativo. Isso quer dizer que outras pessoas vão mexer no arquivo, editando o que você escreveu, ampliando ou mesmo apagando. A vida é assim, e é assim que os grandes projetos open souce funcionam.
+Para facilitar a vida de todos algumas regras simples, que se forem seguidas tornam tudo mais fácil para todos:
+
+   1. Não se preocupe com a formatação do texto por enquanto. Ela é importante, mas não definimos como fazer ainda. Se quiser usar formatação use-a, mas preocupe-se em manter algo que fique claro para todos (por exemplo usar fonte courier para exemplos ou tabulações).
+   2. Evite simplesmente apagar o que outra pessoa escreveu. Em outros projetos deste tipo que participei usávamos o recurso de tachado no texto, comentários entre colchetes e novo texto na frente. Isso funcionou muito bem, e gostaria de usar aqui. Portanto se você não gostar de algo que eu escreví simplesmente coloque um tachado [menu format, strikethrough] e a correção na frente.
+   3. Para sugerir tópicos simplesmente adicione ao indice, na próxima página. Cada tópico teóricamente será um capítulo, então para o digitar adicione uma quebra de linha, defina o título como heading1 e meta bronca.
+   4. Para chamar atenção use cores de fundo ao invés de fontes grandes. 
+
+
+
+Acho que é isso. Adicione seu nome na lista de colaboradores a seguir e mãos a obra.
+
+Galera estive pensando, não seria interessante criarmos um repositorio no git e transformar esse manual em HTML como foi feito o manual do Ruby? - Abraço ferbass
++1 pra qualquer coisa que seja git + texto de marcação (markdown, textile, sei lá) (qmx)
+markdown += (lucianosousa)
