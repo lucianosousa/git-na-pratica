@@ -1,4 +1,4 @@
-= Regras para edição deste arquivo:
+# Regras para edição deste arquivo:
 
 Este é um projeto colaborativo. Isso quer dizer que outras pessoas vão mexer no arquivo, editando o que você escreveu, ampliando ou mesmo apagando. A vida é assim, e é assim que os grandes projetos open souce funcionam.
 Para facilitar a vida de todos algumas regras simples, que se forem seguidas tornam tudo mais fácil para todos:
@@ -8,11 +8,10 @@ Para facilitar a vida de todos algumas regras simples, que se forem seguidas tor
    3. Para sugerir tópicos simplesmente adicione ao indice, na próxima página. Cada tópico teóricamente será um capítulo, então para o digitar adicione uma quebra de linha, defina o título como heading1 e meta bronca.
    4. Para chamar atenção use cores de fundo ao invés de fontes grandes. 
 
-
 Acho que é isso. Adicione seu nome na lista de colaboradores a seguir e mãos a obra.
 
 
-= Colaboradores: (em ordem alfabética)
+# Colaboradores: (em ordem alfabética)
 
     * Bruno Barros (bkether@gmail.com)
     * Emerson Vinicius (duke.m16@gmail.com)
@@ -24,7 +23,7 @@ Acho que é isso. Adicione seu nome na lista de colaboradores a seguir e mãos a
     * Roberta Soares (robs.soares@gmail.com)
     * Rodolfo Luiz (rodolfols@gmail.com)
 
-= Tópicos que serão abordados
+# Tópicos que serão abordados
 
    1. O que é o Git e para que serve;
    2. Instalando e configurando o Git (OSX, Linux e Windows).
@@ -33,14 +32,14 @@ Acho que é isso. Adicione seu nome na lista de colaboradores a seguir e mãos a
    5. Usando o git no dia a dia
 
 
-= Tópicos futuros
+## Tópicos futuros
 
    6. Git GUI tools
-         1. Linux
-               1. gitg
-               2. gitk
-         2. OSX
-         3. Windows
+     6.1. Linux
+       6.1.1. gitg
+       6.1.2. gitk
+     6.2. OSX
+     6.3. Windows
    7. Como colaborar em um projeto open source com o git;
    8. Github
    9. Arquivo de configuração (~/.gitconfig)
@@ -124,7 +123,6 @@ $ git status
 # On branch master
 nothing to commit (working directory clean)
 
-
 Adicionando um repositório remoto e enviando as coisas para lá
 Para criar um repositório remoto precisamos seguir os seguintes passos:
 
@@ -136,10 +134,7 @@ Para criar um repositório remoto precisamos seguir os seguintes passos:
     * Entre no diretório criado (cd projeto.git)
     * Inicie o repositório com o comando git --bare init
 
-
-
-
-= Usando o git no dia a dia
+## Usando o git no dia a dia
 
 No dia o git é uma ferramenta super pratica para se usar, normalmente no processo de versionamento do codigo ira usar comandos como add, rm, commit, e push
 
@@ -147,7 +142,6 @@ git add
 Como é de se imaginar, esse comando adiciona os arquivos em um repositório temporário para em breve ser comitado
 
 git rm
-
 
 git commit -m “descrição do commit”
 
