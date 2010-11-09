@@ -24,7 +24,6 @@ Acho que é isso. Adicione seu nome na lista de colaboradores a seguir e mãos a
     * Roberta Soares (robs.soares@gmail.com)
     * Rodolfo Luiz (rodolfols@gmail.com)
 
-
 = Tópicos que serão abordados
 
    1. O que é o Git e para que serve;
@@ -45,124 +44,6 @@ Acho que é isso. Adicione seu nome na lista de colaboradores a seguir e mãos a
    7. Como colaborar em um projeto open source com o git;
    8. Github
    9. Arquivo de configuração (~/.gitconfig)
-
-
-
-= O que é o Git e para que serve
-Para essa parte será que podemos usar estes links como base?
-
-http://pt.wikipedia.org/wiki/Git
-http://git-scm.com/about
-
-Afinal isso será um “software livre”
-
-Git é um software livre e aberto utilizado para controle de versão, focado em velocidade e usabilidade.
-
-Faça uma avaliação rápida da situação da sua equipe de desenvolvimento:
-
-    * Alguém já sobrescreveu o código de outra pessoa por acidente e acabou perdendo as alterações?
-
-    * Tem dificuldades em saber quais as alterações efetuadas em um programa, quando foram feitas e quem fez?
-    * Tem dificuldade em recuperar o código de uma versão anterior que está em produção?
-    * Tem problemas em manter variações do sistema ao mesmo tempo?
-
-
-Se alguma das perguntas acima teve um sim como resposta, então sua equipe necessita urgentemente de um sistema para controle de versão!
-
-= Para que serve o Controle de Versão ?
-
-O Controle de versão apóia o desenvolvimento de diversas maneiras:
-
-    * Histórico. Registra toda a evolução do projeto, cada alteração sobre cada arquivo. Com essas informações sabe-se quem fez o que, quando e onde. Além disso, permite reconstruir uma revisão específica do arquivo sempre que desejado;
-    * Colaboração. O controle de versão possibilita que vários desenvolvedores trabalhem em paralelo sobre os mesmo arquivos sem que um sobrescreva o código de outro, o que traria reaparecimento de defeitos e perda de funcionalidades;
-    * Variações no Projeto. Mantém linhas diferentes de evolução do mesmo projeto. Por exemplo, mantendo uma versão 1.0 enquanto a equipe prepara uma versão 2.0.
-
-
-
-= Como funciona o Controle de Versão ?
-O controle de versão é composto de duas partes: o repositório e a área de trabalho. O repositório armazena todo o histórico de evolução do projeto, registrando toda e qualquer alteração feita em cada item versionado.
-O desenvolvedor não trabalha diretamente nos arquivos do repositório. Ao invés disso, usa uma área/cópia de trabalho que contém a cópia dos arquivos do projeto e que é monitorada para identificar as mudanças realizadas. Essa área é individual e isolada das demais áreas de trabalho.
-
-A sincronização entre a área de trabalho e o repositório é feita através dos comandos de commit e update.
-O commit envia um pacote contendo uma ou mais modificações feitas na área de trabalho (origem) ao repositório (destino). O update faz o inverso, isto é, envia as modificações contidas no repositório (origem) para a área de trabalho (destino).
-Cada commit gera uma nova revisão no repositório, contendo as modificações feitas, data e autor. Uma revisão funciona como uma "foto" de todos os arquivos e diretórios em um determinado momento da evolução do projeto. As "fotos" antigas são mantidas e podem ser recuperadas e analisadas sempre que desejado. O conjunto dessas revisões é justamente o histórico do projeto.
-
-= Controle de Versão Centralizado
-O controle de versão centralizado segue a topologia em estrela, havendo apenas um único repositório central mas várias cópias de trabalho, uma para cada desenvolvedor. A comunicação entre uma área de trabalho e outra passa obrigatoriamente pelo repositório central.
-
-No controle de versão centralizado há um único repositório e várias cópias de trabalho que se comunicam apenas através do repositório central.
-
-= Controle de Versão Distribuído
-São vários repositórios autônomos e independentes, um para cada desenvolvedor. Cada repositório possui uma área de trabalho acoplada e as operações commit e update acontecem localmente entre os dois.
-
-No controle de versão distribuído cada desenvolvedor possui um repositório próprio acoplado a uma área de trabalho. A comunicação entre eles continua sendo através de commit e update.
-
-Um repositório pode se comunicar com qualquer outro através de duas operações básicas: pull e push:
-
-    * Pull (Puxar). Atualiza o repositório local (destino) com todas as alterações feitas em outro repositório (origem).
-    * Push (Empurrar). Envia as alterações do repositório local (origem) para um outro repositório (destino).
-
-
-
-Centralizado	Distribuído	Função
-checkout	clone	criação da cópia de trabalho/repositório
-commit	commit	envia alterações para o repositório, criando uma revisão
-update	update	atualiza a cópia/área de trabalho em uma revisão
-	pull	importa revisões feitas em outro repositório
-	push	envia revisões locais para outro repositório
-
-
-= Instalando e configurando o Git
-
-= OSX
-Para instalar o Git no OSX podemos fazer de diversas maneiras, vamos abordar as 3 mais comuns, através do MacPorts, HomeBrew e pelo pacote pré-compilado.
-Para todas as opções abaixo é recomendado que você tenha instalado o Xcode
-
-          o HomeBrew
-
-                +         1. Instale o HomeBrew, caso já tenha instalado ir para o próximo passo;
-                +         2. Abra o terminal;
-                +         3. Digite brew install git;
-                +        
-                +         Pontro agora é so aguardar e seu git será instalado
-+
-
-          o MacPorts
-
-
-        1. Instale o MacPorts, caso já tenha instalado basta ir para o próximo passo
-        2. Abra o terminal
-        3. É muito importante que seu MacPorts esteja atualizado, para isso digite sudo port -v selfupdate
-        4. Agora basta digitar sudo port install git-core +svn
-       
-
-Pontro agora é so aguardar e seu git será instalado
-
-          o Pacote pré-compilado
-
-          o     1. Baixe o pacote pré-compilado através do endereço http://code.google.com/p/git-osx-installer/
-
-
-        2. Monte o disco .dmg
-        3. Instale o package
-        4.
-
-= LINUX
-Para instalar o Git no Linux, também podemos fazer de várias formas. Dependendo da distribuição que você usar pode ser extremamente simples.
-
-          o Debian / Ubuntu
-
-                +         1. Abra um terminal de digite: sudo aptitude install git-core;
-+
-
-
-
-= WINDOWS
-
--- alguém usa Windows aqui???
--- mesmo que ninguém use, acho interessante pesquisármos e incluirmos essa informação, pra ficar algo completo =]  (by Catón)
-msysgit é o ambiente melhor pra windows, depois ajudo nisso (qmx)
-
 
 Criação de um repositório local, adição de arquivos e primeiro commit
 
