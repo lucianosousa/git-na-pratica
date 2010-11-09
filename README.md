@@ -25,24 +25,24 @@ Acho que é isso. Adicione seu nome na lista de colaboradores a seguir e mãos a
 
 # Tópicos que serão abordados
 
-   1. O que é o Git e para que serve;
-   2. Instalando e configurando o Git (OSX, Linux e Windows).
-   3. Criação de um repositório local, adição de arquivos e primeiro commit;
-   4. Adicionando um repositório remoto e enviando as coisas para lá;
-   5. Usando o git no dia a dia
+	1. O que é o Git e para que serve;
+	2. Instalando e configurando o Git (OSX, Linux e Windows).
+	3. Criação de um repositório local, adição de arquivos e primeiro commit;
+	4. Adicionando um repositório remoto e enviando as coisas para lá;
+	5. Usando o git no dia a dia
 
 
 ## Tópicos futuros
 
-   6. Git GUI tools
-     6.1. Linux
-       6.1.1. gitg
-       6.1.2. gitk
-     6.2. OSX
-     6.3. Windows
-   7. Como colaborar em um projeto open source com o git;
-   8. Github
-   9. Arquivo de configuração (~/.gitconfig)
+	6. Git GUI tools
+		6.1. Linux
+			6.1.1. gitg
+			6.1.2. gitk
+		6.2. OSX
+		6.3. Windows
+	7. Como colaborar em um projeto open source com o git;
+	8. Github
+	9. Arquivo de configuração (~/.gitconfig)
 
 Criação de um repositório local, adição de arquivos e primeiro commit
 
