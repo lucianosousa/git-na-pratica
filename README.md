@@ -48,27 +48,27 @@ Criação de um repositório local, adição de arquivos e primeiro commit
 
 Vamos começar da maneira mais simples possível, criar uma aplicação Rails e a adicionar a um repositório Git. Para isso abra o terminal e crie um projeto Rails:
 
-$ rails git_na_pratica
-     create  
-     create  app/controllers
-     create  app/helpers
-     create  app/models
-     [......]
-     create  doc/README_FOR_APP
-     create  log/server.log
-     create  log/production.log
-     create  log/development.log
-     create  log/test.log
+>$ rails git_na_pratica
+create  
+create  app/controllers
+create  app/helpers
+create  app/models
+[......]
+create  doc/README_FOR_APP
+create  log/server.log
+create  log/production.log
+create  log/development.log
+create  log/test.log
 
 Entre no diretório do projeto e inicie o repositório com o comando git init:
 
-$ cd git_na_pratica/
+>$ cd git_na_pratica/
 $ git init
 Initialized empty Git repository in /home/desenvolvimento/git_na_pratica/.git/
 
 Você pode encontrar um diretório .git agora dentro de seu diretório. É nesse diretório que o Git guarda todas as informações, diferente do SVN e do CVS, que criam uma pasta para cada pasta de seu projeto.
 
-$ ls -al
+>$ ls -al
 total 72
 drwxr-xr-x 14 castellani castellani  4096 2010-07-27 10:01 .
 drwxr-xr-x 15 castellani castellani  4096 2010-07-27 10:00 ..
@@ -89,13 +89,13 @@ drwxr-xr-x  3 castellani castellani  4096 2010-07-27 10:00 vendor
 
 Vamos agora realizar o primeiro commit de nosso projeto. Para começar vamos adicionar todos os arquivos da pasta com o comando git add . (ou git add --all). Esse comando informa ao git que desejamos adicionar ao controle de versão todos os arquivos e diretórios da pasta onde estamos, recursivamente.
 
-$ git add .
+>$ git add .
 
 Depois vamos realizar o primeiro commit utilizando o comando git commit -a -m "Primeiro Commit". A opção -a (ou --all)indica que o commit será para todos os arquivos modificados, renomeados ou apagados. Para arquivos novos você deve obrigatóriamente usar o git add antes do git commit. Já a opção -m informa a mensagem de commit.
 
 Ao invés de git commit -a -m "Primeiro Commit" também é possível usar git commit -am "Primeiro Commit".
 
-$ git commit -am "Primeiro Commit"
+>$ git commit -am "Primeiro Commit"
 [master (root-commit) 6316e12] Primeiro Commit
 42 files changed, 8461 insertions(+), 0 deletions(-)
 create mode 100644 README
@@ -110,7 +110,7 @@ create mode 100644 test/test_helper.rb
 
 Para ver o seu commit use git log. Você verá uma listagem com a mensagem de commit, o autor e outros dados.
 
-$ git log
+>$ git log
 commit 6316e121fa36b01bb17e437b5a596bf53d1fbe3c
 Author: Marcelo Castellani <castellani@castellani-desktop.(none)>
 Date:   Tue Jul 27 10:11:16 2010 -0300
@@ -119,8 +119,8 @@ Date:   Tue Jul 27 10:11:16 2010 -0300
 
 Outro comando muito útil é o git status, que mostra quais arquivos foram modificados e em qual branch estamos trabalhando. Vamos falar sobre branchs mais a frente, não se preocupe com isso agora.
 
-$ git status
-# On branch master
+>$ git status
+># On branch master
 nothing to commit (working directory clean)
 
 Adicionando um repositório remoto e enviando as coisas para lá
@@ -138,10 +138,10 @@ Para criar um repositório remoto precisamos seguir os seguintes passos:
 
 No dia o git é uma ferramenta super pratica para se usar, normalmente no processo de versionamento do codigo ira usar comandos como add, rm, commit, e push
 
-git add
+###git add
 Como é de se imaginar, esse comando adiciona os arquivos em um repositório temporário para em breve ser comitado
 
-git rm
+###git rm
 
 git commit -m “descrição do commit”
 
