@@ -29,6 +29,7 @@ Acho que é isso. Adicione seu nome na lista de colaboradores a seguir e mãos a
 3. Criação de um repositório local, adição de arquivos e primeiro commit;
 4. Adicionando um repositório remoto e enviando as coisas para lá;
 5. Usando o git no dia a dia.
+99. Referências
 
 ## Tópicos futuros
 
