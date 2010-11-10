@@ -41,3 +41,4 @@ Acho que é isso. Adicione seu nome na lista de colaboradores a seguir e mãos a
     7. Como colaborar em um projeto open-source com o git
     8. Github
     9. Arquivo de configuração (~/.gitconfig)
+    10. Como usar o arquivo .gitignore
