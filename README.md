@@ -12,15 +12,18 @@ Acho que é isso. Adicione seu nome na lista de colaboradores a seguir e mãos a
 
 # Colaboradores (em ordem alfabética)
 
-* Bruno Barros (bkether at gmail)
-* Emerson Vinicius (duke.m16 at gmail)
-* Fernando Ribeiro (ferbass at gmail)
-* Guilherme Ceolin (guiceolin at gmail)
-* Lucas Catón (lucacaton at gmail)
-* Luciano Sousa (ls at lucianosousa.net)
-* Marcelo Fontes Castellani (marcelo at mindaslab.com)
-* Roberta Soares (robs.soares at gmail)
-* Rodolfo Luiz (rodolfols at gmail)
+<table>
+    <tr><th>Nome</th><th>Blog / Site</th><th>Twitter</th></tr>
+    <tr><td>Bruno Barros</td><td>http://bkether.blogspot.com/</td><td>http://www.twitter.com/bkether</td></tr>
+    <tr><td>Emerson Vinicius</td><td>http://</td><td>http://www.twitter.com/emersonvinicius</td></tr>
+    <tr><td>Fernando Ribeiro</td><td>http://www.ferbass.com/</td><td>http://www.twitter.com/fer_bass</td></tr>
+    <tr><td>Guilherme Ceolin</td><td>http://</td><td>http://www.twitter.com/guiceolin</td></tr>
+    <tr><td>Lucas Catón</td><td>http://blog.lucascaton.com.br/</td><td>http://www.twitter.com/lucascaton</td></tr>
+    <tr><td>Luciano Sousa</td><td>http://lucianosousa.net</td><td>http://www.twitter.com/lucianosousa</td></tr>
+    <tr><td>Marcelo Fontes Castellani</td><td>http://marcelocastellani.com/</td><td>http://www.twitter.com/mfcastellani</td></tr>
+    <tr><td>Roberta Soares</td><td>http://</td><td>http://</td></tr>
+    <tr><td>Rodolfo Luiz</td><td>http://</td><td>http://www.twitter.com/rodolfols</td></tr>
+</table>
 
 # Tópicos que serão abordados
 
