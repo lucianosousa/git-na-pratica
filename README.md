@@ -12,15 +12,15 @@ Acho que é isso. Adicione seu nome na lista de colaboradores a seguir e mãos a
 
 # Colaboradores (em ordem alfabética)
 
-* Bruno Barros (bkether@gmail.com)
-* Emerson Vinicius (duke.m16@gmail.com)
-* Fernando Ribeiro (ferbass@gmail.com)
-* Guilherme Ceolin (guiceolin@gmail.com)
-* Lucas Catón (lucacaton@gmail.com)
-* Luciano Sousa (ls@lucianosousa.net)
-* Marcelo Fontes Castellani (marcelo@mindaslab.com)
-* Roberta Soares (robs.soares@gmail.com)
-* Rodolfo Luiz (rodolfols@gmail.com)
+* Bruno Barros (bkether at gmail)
+* Emerson Vinicius (duke.m16 at gmail)
+* Fernando Ribeiro (ferbass at gmail)
+* Guilherme Ceolin (guiceolin at gmail)
+* Lucas Catón (lucacaton at gmail)
+* Luciano Sousa (ls at lucianosousa.net)
+* Marcelo Fontes Castellani (marcelo at mindaslab.com)
+* Roberta Soares (robs.soares at gmail)
+* Rodolfo Luiz (rodolfols at gmail)
 
 # Tópicos que serão abordados
 
