@@ -32,13 +32,13 @@ Acho que é isso. Adicione seu nome na lista de colaboradores a seguir e mãos a
 
 ## Tópicos futuros
 
-6. Git GUI tools
-  6.1. Linux
-      6.1.1. gitg
-      6.1.2. gitk
-  6.2. OSX
-  6.3. Windows
-7. Como colaborar em um projeto open-source com o git
-8. Github
-9. Arquivo de configuração (~/.gitconfig)
-10. Como usar o arquivo .gitignore
+    6. Git GUI tools
+        6.1. Linux
+            6.1.1. gitg
+            6.1.2. gitk
+        6.2. OSX
+        6.3. Windows
+    7. Como colaborar em um projeto open-source com o git
+    8. Github
+    9. Arquivo de configuração (~/.gitconfig)
+    10. Como usar o arquivo .gitignore
