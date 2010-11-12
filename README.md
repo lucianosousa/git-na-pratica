@@ -21,6 +21,7 @@ Acho que é isso. Adicione seu nome na lista de colaboradores a seguir e mãos a
     <tr><td>Lucas Catón</td><td>http://blog.lucascaton.com.br/</td><td>http://www.twitter.com/lucascaton</td></tr>
     <tr><td>Luciano Sousa</td><td>http://lucianosousa.net</td><td>http://www.twitter.com/lucianosousa</td></tr>
     <tr><td>Marcelo Fontes Castellani</td><td>http://marcelocastellani.com/</td><td>http://www.twitter.com/mfcastellani</td></tr>
+    <tr><td>Marcus Sá</td><td>http://www.woompa.com.br/</td><td>http://www.twitter.com/sa_vini</td></tr>
     <tr><td>Roberta Soares</td><td>http://</td><td>http://</td></tr>
     <tr><td>Rodolfo Luiz</td><td>http://</td><td>http://www.twitter.com/rodolfols</td></tr>
 </table>
@@ -32,6 +33,7 @@ Acho que é isso. Adicione seu nome na lista de colaboradores a seguir e mãos a
 3. Criação de um repositório local, adição de arquivos e primeiro commit;
 4. Adicionando um repositório remoto e enviando as coisas para lá;
 5. Usando o git no dia a dia.
+    5.1 Removendo tracked files
 99. Referências
 
 ## Tópicos futuros
