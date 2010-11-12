@@ -28,13 +28,13 @@ Acho que é isso. Adicione seu nome na lista de colaboradores a seguir e mãos a
 
 # Tópicos que serão abordados
 
-1. O que é o Git e para que serve;
-2. Instalando e configurando o Git (OSX, Linux e Windows);
-3. Criação de um repositório local, adição de arquivos e primeiro commit;
-4. Adicionando um repositório remoto e enviando as coisas para lá;
-5. Usando o git no dia a dia.
+  1. O que é o Git e para que serve;
+  2. Instalando e configurando o Git (OSX, Linux e Windows);
+  3. Criação de um repositório local, adição de arquivos e primeiro commit;
+  4. Adicionando um repositório remoto e enviando as coisas para lá;
+  5. Usando o git no dia a dia.
     5.1 Removendo tracked files
-99. Referências
+  99. Referências
 
 ## Tópicos futuros
 
