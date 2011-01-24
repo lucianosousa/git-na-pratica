@@ -16,6 +16,7 @@ Acho que é isso. Adicione seu nome na lista de colaboradores a seguir e mãos a
     <tr><th>Nome</th><th>Blog / Site</th><th>Twitter</th></tr>
     <tr><td>Bruno Barros</td><td>http://bkether.blogspot.com/</td><td>http://www.twitter.com/bkether</td></tr>
     <tr><td>Emerson Vinicius</td><td>http://</td><td>http://www.twitter.com/emersonvinicius</td></tr>
+    <tr><td>Fernando Kosh</td><td>http://fernandokosh.blogspot.com/</td><td>http://www.twitter.com/fernandokosh</td></tr>
     <tr><td>Fernando Ribeiro</td><td>http://www.ferbass.com/</td><td>http://www.twitter.com/fer_bass</td></tr>
     <tr><td>Guilherme Ceolin</td><td>http://</td><td>http://www.twitter.com/guiceolin</td></tr>
     <tr><td>Lucas Catón</td><td>http://blog.lucascaton.com.br/</td><td>http://www.twitter.com/lucascaton</td></tr>
