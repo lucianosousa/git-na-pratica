@@ -15,6 +15,7 @@ Acho que é isso. Adicione seu nome na lista de colaboradores a seguir e mãos a
 <table>
     <tr><th>Nome</th><th>Blog / Site</th><th>Twitter</th></tr>
     <tr><td>Bruno Barros</td><td>http://bkether.blogspot.com/</td><td>http://www.twitter.com/bkether</td></tr>
+    <tr><td>Carlos Delfino</td><td>http://www.carlosde.fino.eti.br</td><td>http://www.twitter.com/fullsrv</td></tr>
     <tr><td>Emerson Vinicius</td><td>http://</td><td>http://www.twitter.com/emersonvinicius</td></tr>
     <tr><td>Fernando Kosh</td><td>http://fernandokosh.blogspot.com/</td><td>http://www.twitter.com/fernandokosh</td></tr>
     <tr><td>Fernando Ribeiro</td><td>http://www.ferbass.com/</td><td>http://www.twitter.com/fer_bass</td></tr>
@@ -49,3 +50,6 @@ Acho que é isso. Adicione seu nome na lista de colaboradores a seguir e mãos a
     8. Github
     9. Arquivo de configuração (~/.gitconfig)
     10. Como usar o arquivo .gitignore
+
+	30. Submodulos/Subprojetos
+
