@@ -1,0 +1,5 @@
+*.sw?
+.redcar/*
+.project
+.buildpath
+.settings
