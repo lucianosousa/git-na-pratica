@@ -51,5 +51,5 @@ Acho que é isso. Adicione seu nome na lista de colaboradores a seguir e mãos a
     9. Arquivo de configuração (~/.gitconfig)
     10. Como usar o arquivo .gitignore
     
-	30. SubModulos
+	30. Submodulos/Subprojetos
     
