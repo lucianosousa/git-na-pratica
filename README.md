@@ -15,6 +15,7 @@ Acho que é isso. Adicione seu nome na lista de colaboradores a seguir e mãos a
 <table>
     <tr><th>Nome</th><th>Blog / Site</th><th>Twitter</th><td>Outros</td></tr>
     <tr><td>Bruno Barros</td><td>http://bkether.blogspot.com/</td><td>http://www.twitter.com/bkether</td><td></td></tr>
+    <tr><td>Carlos Delfino</td><td>http://www.carlosde.fino.eti.br</td><td>http://www.twitter.com/fullsrv</td><td>http://www.github.com/carlosdelfino<br/>http://www.linkedin.com/in/carlosdelfino</td></tr>
     <tr><td>Emerson Vinicius</td><td>http://</td><td>http://www.twitter.com/emersonvinicius</td><td></td></tr>
     <tr><td>Fernando Ribeiro</td><td>http://www.ferbass.com/</td><td>http://www.twitter.com/fer_bass</td><td></td></tr>
     <tr><td>Guilherme Ceolin</td><td>http://</td><td>http://www.twitter.com/guiceolin</td><td></td></tr>
@@ -24,7 +25,6 @@ Acho que é isso. Adicione seu nome na lista de colaboradores a seguir e mãos a
     <tr><td>Marcus Sá</td><td>http://www.woompa.com.br/</td><td>http://www.twitter.com/sa_vini</td><td></td></tr>
     <tr><td>Roberta Soares</td><td>http://</td><td>http://</td><td></td></tr>
     <tr><td>Rodolfo Luiz</td><td>http://</td><td>http://www.twitter.com/rodolfols</td><td></td></tr>
-    <tr><td>Carlos Delfino</td><td>http://www.carlosde.fino.eti.br</td><td>http://www.twitter.com/fullsrv</td><td>http://www.github.com/carlosdelfino<br/>http://www.linkedin.com/in/carlosdelfino</td></tr>
 </table>
 
 # Tópicos que serão abordados
