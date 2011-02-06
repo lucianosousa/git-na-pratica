@@ -36,6 +36,8 @@ Acho que é isso. Adicione seu nome na lista de colaboradores a seguir e mãos a
     4. Adicionando um repositório remoto e enviando as coisas para lá;
     5. Usando o git no dia a dia.
       5.1 Removendo tracked files
+	30. Submódulos
+	
     99. Referências
 
 ## Tópicos futuros
@@ -50,6 +52,7 @@ Acho que é isso. Adicione seu nome na lista de colaboradores a seguir e mãos a
     8. Github
     9. Arquivo de configuração (~/.gitconfig)
     10. Como usar o arquivo .gitignore
-
 	30. Submodulos/Subprojetos
-
+    20. Usando o Eclipse+EGIT
+		30.1. Procedimentos problemáticos no Submódulo
+		30.2. Trabalhando com Submódulos no Eclipse + EGIT    
