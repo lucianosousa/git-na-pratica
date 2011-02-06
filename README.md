@@ -30,29 +30,29 @@ Acho que é isso. Adicione seu nome na lista de colaboradores a seguir e mãos a
 
 # Tópicos que serão abordados
 
-    1. O que é o Git e para que serve;
-    2. Instalando e configurando o Git (OSX, Linux e Windows);
-    3. Criação de um repositório local, adição de arquivos e primeiro commit;
-    4. Adicionando um repositório remoto e enviando as coisas para lá;
-    5. Usando o git no dia a dia.
-      5.1 Removendo tracked files
-	30. Submódulos
-	
+    01. O que é o Git e para que serve;
+    02. Instalando e configurando o Git (OSX, Linux e Windows);
+    03. Criação de um repositório local, adição de arquivos e primeiro commit;
+    04. Adicionando um repositório remoto e enviando as coisas para lá;
+    05. Usando o git no dia a dia.
+        05.1 Removendo tracked files
+    30. Submódulos	
     99. Referências
 
 ## Tópicos futuros
 
-    6. Git GUI tools
-        6.1. Linux
-            6.1.1. gitg
-            6.1.2. gitk
-        6.2. OSX
-        6.3. Windows
-    7. Como colaborar em um projeto open-source com o git
-    8. Github
-    9. Arquivo de configuração (~/.gitconfig)
+    06. Git GUI tools
+        06.1. Linux
+            06.1.1. gitg
+            06.1.2. gitk
+        06.2. OSX
+        06.3. Windows
+    07. Como colaborar em um projeto open-source com o git
+    08. Github
+    09. Arquivo de configuração (~/.gitconfig)
     10. Como usar o arquivo .gitignore
-	30. Submodulos/Subprojetos
     20. Usando o Eclipse+EGIT
-		30.1. Procedimentos problemáticos no Submódulo
-		30.2. Trabalhando com Submódulos no Eclipse + EGIT    
+    30. Submodulos/Subprojetos
+        30.1. Procedimentos problem�ticos no Subm�dulo
+        30.2. Trabalhando com Subm�dulos no Eclipse + EGIT
+
