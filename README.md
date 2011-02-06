@@ -53,6 +53,5 @@ Acho que √© isso. Adicione seu nome na lista de colaboradores a seguir e m√£os a
     10. Como usar o arquivo .gitignore
     20. Usando o Eclipse+EGIT
     30. Submodulos/Subprojetos
-        30.1. Procedimentos problem·ticos no SubmÛdulo
-        30.2. Trabalhando com SubmÛdulos no Eclipse + EGIT
-
+        30.1. Procedimentos problem√°ticos no Subm√≥dulo
+        30.2. Trabalhando com Subm√≥dulos no Eclipse + EGIT
