@@ -41,6 +41,8 @@ Acho que é isso. Adicione seu nome na lista de colaboradores a seguir e mãos a
 
 ## Tópicos futuros
 
+    01.01. Terminologia
+    01.02. Estrutura de Diretórios Usada no GIT
     06. Git GUI tools
         06.1. Linux
             06.1.1. gitg
