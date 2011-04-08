@@ -17,6 +17,7 @@ Acho que é isso. Adicione seu nome na lista de colaboradores a seguir e mãos a
     <tr><td>Bruno Barros</td><td>http://bkether.blogspot.com/</td><td>http://www.twitter.com/bkether</td></tr>
     <tr><td>Carlos Delfino</td><td>http://www.carlosdelfino.eti.br</td><td>http://www.twitter.com/fullsrv</td></tr>
     <tr><td>Emerson Vinicius</td><td>http://</td><td>http://www.twitter.com/emersonvinicius</td></tr>
+    <tr><td>Erich Kist</td><td>http://</td><td>http://www.twitter.com/erichkist</td></tr>
     <tr><td>Fernando Kosh</td><td>http://fernandokosh.blogspot.com/</td><td>http://www.twitter.com/fernandokosh</td></tr>
     <tr><td>Fernando Ribeiro</td><td>http://www.ferbass.com/</td><td>http://www.twitter.com/fer_bass</td></tr>
     <tr><td>Guilherme Ceolin</td><td>http://</td><td>http://www.twitter.com/guiceolin</td></tr>
