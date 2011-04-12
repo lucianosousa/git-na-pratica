@@ -1,0 +1,85 @@
+# Adicionando arquivos ao commit anterior
+
+Quando fazemos um commit faltando alterações o procedimento mais usado é executar o 'git reset --soft HEAD^'. Este comando desfaz o commit e traz as alterações para dentro do seu staging. Neste ponto você altera e adiciona o que deseja e realiza novamente o commit. Apesar de ser um procedimento fácil ele pode ser muito cansativo.
+
+Existe outra maneira de realizar o mesmo procedimento. Vamos a prática:
+
+    $ mkdir projeto
+    $ cd projeto
+    $ git init
+      Initialized empty Git repository in /home/git_na_pratica/projeto/.git/
+
+Até o momento apenas criamos nosso projeto e inicializamos o Git. Vamos agora adicionar alguns arquivos:
+
+    $ touch indice.txt
+    $ git add .
+    $ git commit -m "Importação inicial"
+      [master (root-commit) f4788bb] Importação inicial
+       0 files changed, 0 insertions(+), 0 deletions(-)
+       create mode 100644 indice.txt
+
+Fizemos nosso primeiro commit. Vamos agora adicionar os nossos capítulos:
+
+    $ touch capitulo1.txt
+    $ touch capitulo3.txt
+    $ git add .
+    $ git commit -m "Adicionando capítulos 1, 2 e 3"
+      [master (root-commit) f4788bb] Importação inicial
+       0 files changed, 0 insertions(+), 0 deletions(-)
+        create mode 100644 capitulo1.txt
+        create mode 100644 capitulo3.txt
+
+Vamos verificar nosso status e o log:
+
+    $ git status
+      # On branch master
+      nothing to commit (working directory clean)
+    $ git log --oneline
+      c53ca4f Adicionando capítulos 1, 2 e 3
+      f4788bb Importação inicial
+
+Como podem perceber, esquecemos de criar e enviar o capítulo 2. Vamos criar o arquivo e realizar o commit a opção --amend.
+
+    $ touch capitulo2.txt
+    $ git add capitulo2.tx
+    $ git commit --amend
+    
+Neste momento irá abrir o seu editor padrão com as informações do commit anterior e os arquivos alterados juntamente com os novos.
+Salvando o arquivo e fechando iremos ter o retorno:
+
+    [master 4e351ee] Adicionando capítulos 1, 2 e 3
+     0 files changed, 0 insertions(+), 0 deletions(-)
+     create mode 100644 capitulo1.txt
+     create mode 100644 capitulo2.txt
+     create mode 100644 capitulo3.txt
+
+Verificando novamente o status e o log:
+
+    $ git status
+      # On branch master
+      nothing to commit (working directory clean)
+    $ git log --oneline
+      4e351ee Adicionando capítulos 1, 2 e 3
+      f4788bb Importação inicial
+
+Vamos ver as alterações do commit 4e351ee:
+
+    $ git show 4e351ee
+        commit 4e351ee834ef7720daa8068f757f14c2f3b5fadd
+        Author: Erich Kist <erichkist@gmail.com>
+        Date:   Tue Apr 12 07:58:57 2011 -0300
+
+            Adicionando capítulos 1, 2 e 3
+
+        diff --git a/capitulo1.txt b/capitulo1.txt
+        new file mode 100644
+        index 0000000..e69de29
+        diff --git a/capitulo2.txt b/capitulo2.txt
+        new file mode 100644
+        index 0000000..e69de29
+        diff --git a/capitulo3.txt b/capitulo3.txt
+        new file mode 100644
+        index 0000000..e69de29
+
+O commit agora esta com todas as nossas alterações. Olhando com mais detalhe podemos perceber que o git antes tinha um commit com hash c53ca4f e agora possui o hash 4e351ee. Por baixo dos panos o git removeu o commit anterior e criou um novo commit.
+Assim como o 'reset --soft' o 'commit --amend' reescreve o histórico. Não é uma boa prática executá-lo quando o commit anterior já estiver sido enviado para o repositório remoto (push).

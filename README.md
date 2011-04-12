@@ -37,6 +37,7 @@ Acho que é isso. Adicione seu nome na lista de colaboradores a seguir e mãos a
     04. Adicionando um repositório remoto e enviando as coisas para lá;
     05. Usando o git no dia a dia.
         05.1 Removendo tracked files
+        05.2 Adicionando arquivos ao commit anterior 
     30. Submódulos	
     99. Referências
 
