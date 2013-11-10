@@ -1,4 +1,8 @@
-# Regras para participação no projeto:
+# Git na pratica
+
+Manual git em português produzido coletivamente.
+
+## Regras para participação no projeto:
 
 Este é um projeto colaborativo. Isso quer dizer que outras pessoas irão mexer no arquivo, editando o que você escreveu, ampliando ou mesmo apagando. A vida é assim, e é assim que os grandes projetos open-source funcionam.
 Para facilitar a vida de todos, seguem algumas regras simples, que se forem seguidas tornarão tudo mais fácil para todos:
@@ -9,8 +13,7 @@ Para facilitar a vida de todos, seguem algumas regras simples, que se forem segu
 
 Acho que é isso. Adicione seu nome na lista de colaboradores a seguir e mãos a obra.
 
-
-# Colaboradores (em ordem alfabética)
+## Colaboradores (em ordem alfabética)
 
 <table>
     <tr><th>Nome</th><th>Blog / Site</th><th>Twitter</th></tr>
@@ -21,7 +24,7 @@ Acho que é isso. Adicione seu nome na lista de colaboradores a seguir e mãos a
     <tr><td>Fernando Kosh</td><td>http://fernandokosh.blogspot.com/</td><td>http://www.twitter.com/fernandokosh</td></tr>
     <tr><td>Fernando Ribeiro</td><td>http://www.ferbass.com/</td><td>http://www.twitter.com/fer_bass</td></tr>
     <tr><td>Guilherme Ceolin</td><td>http://</td><td>http://www.twitter.com/guiceolin</td></tr>
-    <tr><td>Lucas Catón</td><td>http://blog.lucascaton.com.br/</td><td>http://www.twitter.com/lucascaton</td></tr>
+    <tr><td>Lucas Caton</td><td>http://blog.lucascaton.com.br/</td><td>http://www.twitter.com/lucascaton</td></tr>
     <tr><td>Luciano Sousa</td><td>http://lucianosousa.net</td><td>http://www.twitter.com/lucianosousa</td></tr>
     <tr><td>Marcelo Fontes Castellani</td><td>http://marcelocastellani.com/</td><td>http://www.twitter.com/mfcastellani</td></tr>
     <tr><td>Marcus Sá</td><td>http://www.woompa.com.br/</td><td>http://www.twitter.com/sa_vini</td></tr>
@@ -29,7 +32,7 @@ Acho que é isso. Adicione seu nome na lista de colaboradores a seguir e mãos a
     <tr><td>Rodolfo Luiz</td><td>http://</td><td>http://www.twitter.com/rodolfols</td></tr>
 </table>
 
-# Tópicos que serão abordados
+## Tópicos que serão abordados
 
     01. O que é o Git e para que serve;
     02. Instalando e configurando o Git (OSX, Linux e Windows);
@@ -37,11 +40,11 @@ Acho que é isso. Adicione seu nome na lista de colaboradores a seguir e mãos a
     04. Adicionando um repositório remoto e enviando as coisas para lá;
     05. Usando o git no dia a dia.
         05.1 Removendo tracked files
-        05.2 Adicionando arquivos ao commit anterior 
-    30. Submódulos	
+        05.2 Adicionando arquivos ao commit anterior
+    30. Submódulos
     99. Referências
 
-## Tópicos futuros
+### Tópicos futuros
 
     01.01. Terminologia
     01.02. Estrutura de Diretórios Usada no GIT
@@ -52,21 +55,21 @@ Acho que é isso. Adicione seu nome na lista de colaboradores a seguir e mãos a
         06.2. OSX
         06.3. Windows
     07. Como colaborar em um projeto open-source com o git
-	08. Repositorios Publicos e Privados na Web 
-		08.01 GitHUB
-		08.02 Assembla
+  08. Repositorios Publicos e Privados na Web
+    08.01 GitHUB
+    08.02 Assembla
     09. Arquivo de configuração (~/.gitconfig)
     10. Como usar o arquivo .gitignore
-	
-	30. Submódulos/Subprojetos
-		30.01. Procedimentos problemáticos no Submódulo
-		30.02. Submodulos no GitHub
 
-	40. Usando o Eclipse+EGIT
-		40.01. Trabalhando com o GitHub no Eclipse + EGIT
-		40.02. Trabalhando com Submódulos no Eclipse + EGIT    
+  30. Submódulos/Subprojetos
+    30.01. Procedimentos problemáticos no Submódulo
+    30.02. Submodulos no GitHub
 
-	60. Personalizando seu Repositorio na WEB
-		60.01 Personalizando o GITHub
-		60.01.01 Criando HomePage para seu Projeto e seu Profile no GITHub 
-		60.02.02 Criando um Wiki para seu Projeto no GITHub 
+  40. Usando o Eclipse+EGIT
+    40.01. Trabalhando com o GitHub no Eclipse + EGIT
+    40.02. Trabalhando com Submódulos no Eclipse + EGIT
+
+  60. Personalizando seu Repositorio na WEB
+    60.01 Personalizando o GITHub
+    60.01.01 Criando HomePage para seu Projeto e seu Profile no GITHub
+    60.02.02 Criando um Wiki para seu Projeto no GITHub
