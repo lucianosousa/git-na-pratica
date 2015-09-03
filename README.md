@@ -78,4 +78,4 @@ Acho que é isso. Adicione seu nome na lista de colaboradores a seguir e mãos a
     60. Personalizando seu Repositorio na WEB
         60.01 Personalizando o GITHub
             60.01.01 Criando HomePage para seu Projeto e seu Profile no GITHub
-        60.02.02 Criando um Wiki para seu Projeto no GITHub
+            60.01.02 Criando um Wiki para seu Projeto no GITHub
