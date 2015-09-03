@@ -1,4 +1,4 @@
-# Git na pratica
+# Git na prática
 
 Manual git em português produzido coletivamente.
 
@@ -46,30 +46,36 @@ Acho que é isso. Adicione seu nome na lista de colaboradores a seguir e mãos a
 
 ### Tópicos futuros
 
-    01.01. Terminologia
-    01.02. Estrutura de Diretórios Usada no GIT
+    01. 
+        01.01. Terminologia
+        01.02. Estrutura de Diretórios Usada no GIT
+    
     06. Git GUI tools
         06.1. Linux
             06.1.1. gitg
             06.1.2. gitk
         06.2. OSX
         06.3. Windows
+    
     07. Como colaborar em um projeto open-source com o git
-  08. Repositorios Publicos e Privados na Web
-    08.01 GitHUB
-    08.02 Assembla
+    
+    08. Repositórios Públicos e Privados na Web
+        08.01 GitHUB
+        08.02 Assembla
+    
     09. Arquivo de configuração (~/.gitconfig)
+    
     10. Como usar o arquivo .gitignore
 
-  30. Submódulos/Subprojetos
-    30.01. Procedimentos problemáticos no Submódulo
-    30.02. Submodulos no GitHub
+    30. Submódulos/Subprojetos
+        30.01. Procedimentos problemáticos no Submódulo
+        30.02. Submodulos no GitHub
 
-  40. Usando o Eclipse+EGIT
-    40.01. Trabalhando com o GitHub no Eclipse + EGIT
-    40.02. Trabalhando com Submódulos no Eclipse + EGIT
+    40. Usando o Eclipse+EGIT
+        40.01. Trabalhando com o GitHub no Eclipse + EGIT
+        40.02. Trabalhando com Submódulos no Eclipse + EGIT
 
-  60. Personalizando seu Repositorio na WEB
-    60.01 Personalizando o GITHub
-    60.01.01 Criando HomePage para seu Projeto e seu Profile no GITHub
-    60.02.02 Criando um Wiki para seu Projeto no GITHub
+    60. Personalizando seu Repositorio na WEB
+        60.01 Personalizando o GITHub
+            60.01.01 Criando HomePage para seu Projeto e seu Profile no GITHub
+        60.02.02 Criando um Wiki para seu Projeto no GITHub
