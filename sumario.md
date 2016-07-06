@@ -1,7 +1,7 @@
 # Summary
 
 * [Indice](sumario.md)
-# O que é o GIT 							-> 01
+* [O que é o GIT](01.o-que-e-o-git.md)
 # Instalação 								-> 02
 # Repositorio Local 						-> 03
 # Repositorio Remoto 						-> 04
