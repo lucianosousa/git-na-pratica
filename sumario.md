@@ -5,6 +5,9 @@
 * [Instalação](02-instalacao.md)
 * [Repositório Local](03.repositorio-localmd)
 * [Repositório Remoto](04.repositorio-remoto.md)
+* [Dia a Dia](05.dia-a-dia.md)
+
+
 
 # Dia a Dia 								-> 05
 
