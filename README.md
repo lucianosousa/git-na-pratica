@@ -15,17 +15,17 @@ Acho que é isso. Adicione seu nome na lista de colaboradores a seguir e mãos a
 
 ## Colaboradores (em ordem alfabética)
 
-<table>
-    <tr><th>Nome</th><th>Blog / Site</th><th>Twitter</th></tr>
-    <tr><td>Bruno Barros</td><td>http://bkether.blogspot.com/</td><td>http://www.twitter.com/bkether</td></tr>
-    <tr><td>Carlos Delfino</td><td>http://www.carlosdelfino.eti.br</td><td>http://www.twitter.com/fullsrv</td></tr>
-    <tr><td>Emerson Vinicius</td><td>http://</td><td>http://www.twitter.com/emersonvinicius</td></tr>
-    <tr><td>Erich Kist</td><td>http://</td><td>http://www.twitter.com/erichkist</td></tr>
-    <tr><td>Fernando Kosh</td><td>http://fernandokosh.blogspot.com/</td><td>http://www.twitter.com/fernandokosh</td></tr>
-    <tr><td>Fernando Ribeiro</td><td>http://www.ferbass.com/</td><td>http://www.twitter.com/fer_bass</td></tr>
-    <tr><td>Guilherme Ceolin</td><td>http://</td><td>http://www.twitter.com/guiceolin</td></tr>
-    <tr><td>Lucas Caton</td><td>http://blog.lucascaton.com.br/</td><td>http://www.twitter.com/lucascaton</td></tr>
-    <tr><td>Luciano Sousa</td><td>http://lucianosousa.net</td><td>http://www.twitter.com/lucianosousa</td></tr>
+| Nome | Blog/Site | Twitter |
+| -- | -- | -- |
+| Bruno Barros | http://bkether.blogspot.com/ | http://www.twitter.com/bkether | 
+| Carlos Delfino | http://www.carlosdelfino.eti.br | http://www.twitter.com/fullsrv | 
+| Emerson Vinicius | http:// | http://www.twitter.com/emersonvinicius |
+| Erich Kist | http:// | http://www.twitter.com/erichkist | 
+ | Fernando Kosh | http://fernandokosh.blogspot.com/ | http://www.twitter.com/fernandokosh | 
+     | Fernando Ribeiro | http://www.ferbass.com/ | http://www.twitter.com/fer_bass | 
+     | Guilherme Ceolin< | http:// | http://www.twitter.com/guiceolin | 
+     | Lucas Caton | http://blog.lucascaton.com.br/ | http://www.twitter.com/lucascaton | 
+     | Luciano Sousa | http://lucianosousa.net | http://www.twitter.com/lucianosousa | 
     <tr><td>Marcelo Fontes Castellani</td><td>http://marcelocastellani.com/</td><td>http://www.twitter.com/mfcastellani</td></tr>
     <tr><td>Marcus Sá</td><td>http://www.woompa.com.br/</td><td>http://www.twitter.com/sa_vini</td></tr>
     <tr><td>Roberta Soares</td><td>http://</td><td>http://</td></tr>
