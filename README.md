@@ -21,16 +21,15 @@ Acho que é isso. Adicione seu nome na lista de colaboradores a seguir e mãos a
 | Carlos Delfino | http://www.carlosdelfino.eti.br | http://www.twitter.com/fullsrv | 
 | Emerson Vinicius | http:// | http://www.twitter.com/emersonvinicius |
 | Erich Kist | http:// | http://www.twitter.com/erichkist | 
- | Fernando Kosh | http://fernandokosh.blogspot.com/ | http://www.twitter.com/fernandokosh | 
-     | Fernando Ribeiro | http://www.ferbass.com/ | http://www.twitter.com/fer_bass | 
-     | Guilherme Ceolin< | http:// | http://www.twitter.com/guiceolin | 
-     | Lucas Caton | http://blog.lucascaton.com.br/ | http://www.twitter.com/lucascaton | 
-     | Luciano Sousa | http://lucianosousa.net | http://www.twitter.com/lucianosousa | 
-    <tr><td>Marcelo Fontes Castellani</td><td>http://marcelocastellani.com/</td><td>http://www.twitter.com/mfcastellani</td></tr>
-    <tr><td>Marcus Sá</td><td>http://www.woompa.com.br/</td><td>http://www.twitter.com/sa_vini</td></tr>
-    <tr><td>Roberta Soares</td><td>http://</td><td>http://</td></tr>
-    <tr><td>Rodolfo Luiz</td><td>http://</td><td>http://www.twitter.com/rodolfols</td></tr>
-</table>
+| Fernando Kosh | http://fernandokosh.blogspot.com/ | http://www.twitter.com/fernandokosh | 
+| Fernando Ribeiro | http://www.ferbass.com/ | http://www.twitter.com/fer_bass | 
+| Guilherme Ceolin< | http:// | http://www.twitter.com/guiceolin | 
+| Lucas Caton | http://blog.lucascaton.com.br/ | http://www.twitter.com/lucascaton | 
+| Luciano Sousa | http://lucianosousa.net | http://www.twitter.com/lucianosousa | 
+| Marcelo Fontes Castellani | http://marcelocastellani.com/ | http://www.twitter.com/mfcastellani |
+| Marcus Sá | http://www.woompa.com.br/ | http://www.twitter.com/sa_vini |
+| Roberta Soares< | http:// | http:// |
+| Rodolfo Luiz | http:// | http://www.twitter.com/rodolfols |
 
 ## Tópicos que serão abordados
 
