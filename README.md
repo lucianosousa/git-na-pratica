@@ -2,6 +2,13 @@
 
 Manual git em português produzido coletivamente.
 
+Apostila Versão: {{ book.Version }}
+
+![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+Este Tutorial está liberado sobre a licença: [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
+
+[Veja Mais informações sobre a licença clicando aqui](licenca.md)
+
 ## Regras para participação no projeto:
 
 Este é um projeto colaborativo. Isso quer dizer que outras pessoas irão mexer no arquivo, editando o que você escreveu, ampliando ou mesmo apagando. A vida é assim, e é assim que os grandes projetos open-source funcionam.
@@ -61,6 +68,7 @@ Acho que é isso. Adicione seu nome na lista de colaboradores a seguir e mãos a
     08. Repositórios Públicos e Privados na Web
         08.01 GitHUB
         08.02 Assembla
+        08.03 gitbucket
     
     09. Arquivo de configuração (~/.gitconfig)
     
